@@ -1,0 +1,21 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+h1{
+	text-align: center;
+}
+textarea{
+	display: block;
+	width: 70%;
+	margin: auto;	
+}
+button{
+	display: block;
+	margin: auto;
+}
+#respuesta{
+	width: 70%;
+	margin: auto;
+}
